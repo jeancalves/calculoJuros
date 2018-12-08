@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  juroscompostos:
+    image: juroscompostos
+    build:
+      context: .
+      dockerfile: JurosCompostos/Dockerfile
