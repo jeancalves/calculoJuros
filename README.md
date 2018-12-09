@@ -1,6 +1,5 @@
 # calculoJuros
-api calculo de juros
-
+cd JurosCompostos
 dotnet run
-
-Ao ser usada interface gráfica pode ser utilizado o selenium web driver.
+https://localhost:5001/swagger/index.html
+IISExpress: localhost:56319/swagger
